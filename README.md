@@ -70,7 +70,7 @@
 
 <a href="https://www.instagram.com/rohan7053sharma/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:rs545837@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 
 </p>
 
