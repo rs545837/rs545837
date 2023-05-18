@@ -38,7 +38,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats]
+[Rohan's GitHub Stats]
 
 <br/>
 
