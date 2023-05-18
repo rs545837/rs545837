@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<a href=""><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+
 
 <a href="https://www.linkedin.com/in/sharmarohan003/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
