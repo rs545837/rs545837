@@ -39,6 +39,7 @@
 <br/><br/>
 
 [Rohan's GitHub Stats]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rs545837&show_icons=true&locale=en" alt="rs545837" /></p>
 
 <br/>
 
