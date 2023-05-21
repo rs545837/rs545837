@@ -66,9 +66,9 @@
 
 
 
-<a href="https://www.linkedin.com/in/sharmarohan003/"></a>
+<a href="https://www.linkedin.com/in/sharmarohan003/">LINKEDIN</a>
 
-<a href="https://www.instagram.com/rohan7053sharma/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/rohan7053sharma/?hl=en">INSTAGRAM</a>
 
 
 </p>
