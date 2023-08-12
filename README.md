@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Rohan</h2> MyWebsite => www.therohansharma.com
+### Hi there 👋<h2> I'm Rohan</h2> MyWebsite => therohansharma.com
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
