@@ -31,7 +31,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  Firebase | flask
+- 🔧 &nbsp;  Architecture Designing for Models | Different Training Methods Of Models
 
 <hr>
 
