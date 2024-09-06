@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Learning about different softwares and technologies.
 
-- ✍️ &nbsp; Pursuing Web Development and Open Source Development as a hobbie.
+- ✍️ &nbsp; Pursuing Web Development, Machine Learning and Open Source Development as a hobbie.
 -   &nbsp; Took a break of 3 months from UCLA and Munched, snoozed, and babbled with AI/ML.
 
 
